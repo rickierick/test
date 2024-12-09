@@ -1,0 +1,25 @@
+#box1{
+    height: 50px;
+    width: 50px;
+    background-color: lightblue;
+}
+#box2{
+    height: 50px;
+    width: 50px;
+    background-color: darkorange;
+}
+#box3{
+    height: 50px;
+    width: 50px;
+    background-color: violet;
+}
+#box4{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+}
+#box5{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+}
